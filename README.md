@@ -9,4 +9,4 @@ El formato de texto de diapositivas será pdf para que no exista problemas de in
 
 ## Carteles de ponencias
 
-![alt text](https://github.com/joaquinpco/Talks/blob/master/28164997_2093070250924688_8953911105886044902_o.jpg)
+![alt text](https://github.com/joaquinpco/Talks/blob/master/28164997_2093070250924688_8953911105886044902_o.jpg | width = 200)
