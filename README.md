@@ -1,6 +1,6 @@
 # Ponencias
 
-Este repositorio está basicamente pensado para la recopilación de charlas tecnológicos que he impartido.
+Este repositorio está basicamente pensado para la recopilación de charlas tecnológicas que he impartido.
 
 ## ¿Que hay en este repositorio?
 
